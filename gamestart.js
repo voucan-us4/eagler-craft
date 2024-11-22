@@ -29,7 +29,7 @@ window.addEventListener("load", function() {
     loadingScreen.appendChild(text);
 
     const tipText = document.createElement("p");
-    tipText.textContent = "Open this game in a new tab for it to work.";
+    tipText.textContent = "Open this game in a new tab for it to work correctly";
     tipText.style.fontSize = "18px";
     tipText.style.fontWeight = "normal";
     tipText.style.marginTop = "10px";
